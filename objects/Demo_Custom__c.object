@@ -163,7 +163,6 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
-    
     <fields>
         <fullName>Field_One__c</fullName>
         <defaultValue>false</defaultValue>
@@ -182,22 +181,12 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Field_Three__c</fullName>
+        <fullName>Field_five5__c</fullName>
+        <defaultValue>false</defaultValue>
         <externalId>false</externalId>
-        <label>Field Three</label>
-        <required>false</required>
+        <label>Field five5</label>
         <trackTrending>false</trackTrending>
-        <type>Email</type>
-        <unique>false</unique>
-    </fields>
-     <fields>
-        <fullName>Field_four__c</fullName>
-        <externalId>false</externalId>
-        <label>Field four</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Email</type>
-        <unique>false</unique>
+        <type>Checkbox</type>
     </fields>
     <validationRules>
         <fullName>DemoValidationRuleOne</fullName>
